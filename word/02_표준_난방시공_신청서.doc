@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>표준 난방시공 신청서</title>
+<style>
+body { font-family: "Malgun Gothic", sans-serif; font-size: 11pt; margin: 28px; color: #111; }
+h1 { text-align: center; font-size: 22pt; margin-bottom: 18px; }
+h2 { font-size: 13pt; margin: 18px 0 8px; }
+table { width: 100%; border-collapse: collapse; margin-bottom: 12px; }
+th, td { border: 1px solid #444; padding: 7px; vertical-align: top; }
+.meta td { width: 25%; }
+.sign td { height: 80px; }
+.note { font-size: 10pt; line-height: 1.6; }
+</style>
+</head>
+<body>
+<h1>표준 난방시공 신청서</h1>
+
+<table class="meta">
+  <tr><td>문서번호</td><td></td><td>신청일</td><td></td></tr>
+  <tr><td>접수담당</td><td>장범식</td><td>업체 연락처</td><td>010-6289-0101</td></tr>
+  <tr><td>업체명</td><td>난방해결사</td><td>대표자명</td><td>장범식</td></tr>
+  <tr><td>업체주소</td><td colspan="3">서울시 노원구 상계동 389-681 1층</td></tr>
+  <tr><td>사업자등록번호</td><td colspan="3"></td></tr>
+</table>
+
+<h2>1. 신청인 정보</h2>
+<table>
+  <tr><td>신청인</td><td></td><td>연락처</td><td></td></tr>
+  <tr><td>이메일</td><td></td><td>주소</td><td></td></tr>
+</table>
+
+<h2>2. 시공 대상 정보</h2>
+<table>
+  <tr><td>시공장소</td><td colspan="3"></td></tr>
+  <tr><td>건물유형</td><td></td><td>평형/면적</td><td></td></tr>
+  <tr><td>희망시공일</td><td></td><td>출입 가능 시간</td><td></td></tr>
+</table>
+
+<h2>3. 신청 내용</h2>
+<table>
+  <tr><td>신청 구분</td><td colspan="3">신규 / 교체 / 보수 / 추가설치 / 점검</td></tr>
+  <tr><td>난방 방식</td><td colspan="3">보일러 / 바닥난방 / 전기난방 / 각방제어 / 기타</td></tr>
+  <tr><td>세부 요청 내용</td><td colspan="3"></td></tr>
+  <tr><td>기존 문제 증상</td><td colspan="3"></td></tr>
+  <tr><td>현장 사진 제출 여부</td><td colspan="3"></td></tr>
+</table>
+
+<h2>4. 결제 및 안내</h2>
+<table>
+  <tr><td>견적 진행 여부</td><td>예 / 아니오</td><td>세금계산서 필요 여부</td><td>예 / 아니오</td></tr>
+  <tr><td>카드결제 여부</td><td>예 / 아니오</td><td>기타 요청사항</td><td></td></tr>
+</table>
+
+<h2>5. 개인정보 및 동의</h2>
+<div class="note">
+  <p>본인은 시공 상담, 견적, 일정 조율을 위한 개인정보 수집 및 이용에 동의합니다.</p>
+  <p>현장 상황에 따라 시공 범위 및 금액이 조정될 수 있음을 확인합니다.</p>
+</div>
+
+<table class="sign">
+  <tr><td>신청인 확인<br><br>성명:<br>서명:</td></tr>
+</table>
+</body>
+</html>

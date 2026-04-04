@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>표준 난방시공 시공확인서</title>
+<style>
+body { font-family: "Malgun Gothic", sans-serif; font-size: 11pt; margin: 28px; color: #111; }
+h1 { text-align: center; font-size: 22pt; margin-bottom: 18px; }
+h2 { font-size: 13pt; margin: 18px 0 8px; }
+table { width: 100%; border-collapse: collapse; margin-bottom: 12px; }
+th, td { border: 1px solid #444; padding: 7px; vertical-align: top; }
+.meta td { width: 25%; }
+.sign td { height: 82px; }
+</style>
+</head>
+<body>
+<h1>표준 난방시공 시공확인서</h1>
+
+<table class="meta">
+  <tr><td>문서번호</td><td></td><td>시공일</td><td></td></tr>
+  <tr><td>담당기사</td><td>장범식</td><td>연락처</td><td>010-6289-0101</td></tr>
+  <tr><td>업체명</td><td>난방해결사</td><td>대표자명</td><td>장범식</td></tr>
+  <tr><td>업체주소</td><td colspan="3">서울시 노원구 상계동 389-681 1층</td></tr>
+  <tr><td>사업자등록번호</td><td colspan="3"></td></tr>
+</table>
+
+<h2>1. 고객 정보</h2>
+<table>
+  <tr><td>고객명</td><td></td><td>연락처</td><td></td></tr>
+  <tr><td>시공장소</td><td colspan="3"></td></tr>
+</table>
+
+<h2>2. 시공 내용</h2>
+<table>
+  <tr><td>시공 구분</td><td colspan="3">설치 / 교체 / 보수 / 점검 / 시운전</td></tr>
+  <tr><td>난방 종류</td><td></td><td>작업 내용</td><td></td></tr>
+  <tr><td>사용 자재</td><td colspan="3"></td></tr>
+  <tr><td>추가 작업</td><td colspan="3"></td></tr>
+</table>
+
+<h2>3. 점검 및 완료 확인</h2>
+<table>
+  <tr><td>누수 점검</td><td>이상 없음 / 조치 필요</td><td>작동 점검</td><td>정상 / 보완 필요</td></tr>
+  <tr><td>온도 제어 확인</td><td>정상 / 보완 필요</td><td>현장 정리</td><td>완료 / 미완료</td></tr>
+  <tr><td>고객 설명</td><td colspan="3">완료 / 미완료</td></tr>
+</table>
+
+<h2>4. 비용 및 비고</h2>
+<table>
+  <tr><td>최종 시공금액</td><td></td><td>수금 여부</td><td></td></tr>
+  <tr><td>비고</td><td colspan="3"></td></tr>
+</table>
+
+<table class="sign">
+  <tr>
+    <td>고객 확인<br><br>성명:<br>서명:<br>확인일:</td>
+    <td>시공자 확인<br><br>업체명: 난방해결사<br>대표자명: 장범식<br>연락처: 010-6289-0101</td>
+  </tr>
+</table>
+</body>
+</html>

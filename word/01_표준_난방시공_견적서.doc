@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>표준 난방시공 견적서</title>
+<style>
+body { font-family: "Malgun Gothic", sans-serif; font-size: 11pt; margin: 28px; color: #111; }
+h1 { text-align: center; font-size: 22pt; margin-bottom: 18px; }
+h2 { font-size: 13pt; margin: 18px 0 8px; }
+table { width: 100%; border-collapse: collapse; margin-bottom: 12px; }
+th, td { border: 1px solid #444; padding: 7px; vertical-align: top; }
+.meta td { width: 25%; }
+.sign td { height: 64px; }
+.note { font-size: 10pt; line-height: 1.6; }
+</style>
+</head>
+<body>
+<h1>표준 난방시공 견적서</h1>
+
+<table class="meta">
+  <tr><td>문서번호</td><td></td><td>견적일</td><td></td></tr>
+  <tr><td>유효기간</td><td></td><td>담당자</td><td>장범식</td></tr>
+  <tr><td>업체명</td><td>난방해결사</td><td>연락처</td><td>010-6289-0101</td></tr>
+  <tr><td>업체주소</td><td colspan="3">서울시 노원구 상계동 389-681 1층</td></tr>
+  <tr><td>사업자등록번호</td><td colspan="3"></td></tr>
+</table>
+
+<h2>1. 고객 정보</h2>
+<table>
+  <tr><td>고객명</td><td></td><td>연락처</td><td></td></tr>
+  <tr><td>주소</td><td colspan="3"></td></tr>
+  <tr><td>시공장소</td><td colspan="3"></td></tr>
+</table>
+
+<h2>2. 현장 정보</h2>
+<table>
+  <tr><td>건물유형</td><td></td><td>난방종류</td><td>보일러 / 온수난방 / 전기난방 / 각방제어 / 기타</td></tr>
+  <tr><td>기존설비</td><td colspan="3"></td></tr>
+  <tr><td>요청사항</td><td colspan="3"></td></tr>
+  <tr><td>현장특이사항</td><td colspan="3"></td></tr>
+</table>
+
+<h2>3. 시공 견적 내역</h2>
+<table>
+  <tr><th>번호</th><th>공종/품목</th><th>규격</th><th>수량</th><th>단가</th><th>금액</th><th>비고</th></tr>
+  <tr><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>3</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>4</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>5</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<h2>4. 금액 정리</h2>
+<table>
+  <tr><td>공급가액</td><td></td><td>부가세</td><td></td></tr>
+  <tr><td>총 견적금액</td><td></td><td>결제조건</td><td></td></tr>
+</table>
+
+<h2>5. 비고</h2>
+<div class="note">
+  <p>본 견적은 현장 실측 및 추가 요청사항에 따라 변경될 수 있습니다.</p>
+  <p>철거, 배관보수, 전기증설, 마감복구 등은 별도 협의할 수 있습니다.</p>
+</div>
+
+<table class="sign">
+  <tr><td>고객 확인<br><br>성명:<br>서명:</td><td>업체 확인<br><br>업체명: 난방해결사<br>대표자명: 장범식<br>연락처: 010-6289-0101</td></tr>
+</table>
+</body>
+</html>
